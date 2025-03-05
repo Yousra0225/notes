@@ -1,5 +1,5 @@
 ### Github CLI Usage Guide 
-===========================
+--------------------------
 
 This file explains how to use **GitHub CLI** to interact with GitHub directly from the command line.
 
