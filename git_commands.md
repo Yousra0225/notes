@@ -1,4 +1,4 @@
-# Git : Commandes et Utilité
+# Git : Commands and utility 
 
 | Commande | Utilité |
 |----------|---------|
@@ -91,4 +91,3 @@ Puis tester les commits proposés jusqu'à trouver le problème.
 
 ---
 
-📌 **Fichier rédigé pour une utilisation rapide des commandes Git !**
