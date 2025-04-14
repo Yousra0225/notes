@@ -58,7 +58,7 @@ Rédige le **dossier de conception**.
 ## Modalités d’évaluation TP Concepteur Développeur d'Applications :
 ### Questionnaire professionnel : 
 Évaluation des connaissances théoriques et pratiques dans les domaines clés du développement logiciel, il se déroule sur un poste de travail sans accès à Internet, sous surveillance, et les téléphones portables sont interdits.
-### Dossier de projet :
+### Dossier de projet :![cliquer pour plus de details](data/project-folder.md)
 Le dossier doit être détaillé et couvrir toutes les étapes du projet, de l'analyse des besoins à la gestion des tests, en passant par la présentation de l'architecture et du code. Il doit inclure des éléments comme des diagrammes de séquence, des captures d'écran, des extraits de code significatifs, ainsi que des éléments sur la sécurité de l’application.
 Le dossier de projet doit contenir entre 30 et 40 pages, et les annexes ne doivent pas dépasser 20 pages. Compétences à démontrer :
 - Développer des interfaces utilisateur,
