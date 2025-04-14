@@ -1,11 +1,10 @@
 # Modèle de Dossier de Projet
 ## Page de Garde et Présentation Générale
-- **Titre du projet** : [Nom du projet]
-- **Nom du candidat** : [Ton nom]
-- **Numéro d’identification** : [Si applicable]
-- **Date et lieu** : [Date et lieu]
-- **Coordonnées** : [Adresse email, téléphone, etc.]
-- **Logo de l’établissement** : [Si applicable]
+- **Titre du projet**
+- **Nom du candidat**  
+- **Numéro d’identification** 
+- **Date et lieu** 
+- **Coordonnées** 
 
 ---
 
